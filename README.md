@@ -20,4 +20,4 @@
 
 <img src="https://i.imgur.com/s7YDFbT.png"/>
 
-🔗 [Acesse Cálculo de IMC](https://explorersemlimites.netlify.app/)
+🔗 [Acesse Explorer sem limites ](https://explorersemlimites.netlify.app/)
